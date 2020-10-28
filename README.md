@@ -1,7 +1,4 @@
 # BlueStacksAutoRestarter
-Restarts bluestacks and runs your macro every X minutes in case game freezes/crashes
-
-
 
 How to Run
   1. Python must be installed 
