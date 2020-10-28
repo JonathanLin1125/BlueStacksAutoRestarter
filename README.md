@@ -5,7 +5,7 @@ How to Run
   https://www.python.org/downloads/
   
   2. Create the macro you want to run. 
-    Inside settings, make sure "Execute macro when the player starts" is checked.
+    Inside that specific macro setting, make sure "Execute macro when the player starts" is checked.
     
   3. In BlueStacks settings, make sure "Display" -> "Resolution" is set at "portrait (Phone mode)"
   
