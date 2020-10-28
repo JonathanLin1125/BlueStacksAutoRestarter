@@ -1,11 +1,12 @@
 # BlueStacksAutoRestarter
+Restarts bluestacks and runs your macro every X minutes in case game freezes/crashes
 
 How to Run
   1. Python must be installed 
   https://www.python.org/downloads/
   
-  2. Create the macro you want to run. 
-    Inside that specific macro setting, make sure "Execute macro when the player starts" is checked.
+  2. Create the macro you want to run
+    Inside that specific macro setting, make sure "Execute macro when the player starts" is checked
 	
 ![Alt text](./settings/MacroSetting.JPG "Macro Setting")
     
